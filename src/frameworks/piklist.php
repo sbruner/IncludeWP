@@ -2,7 +2,7 @@
     $framework = array(
         'name'           => 'Piklist',
         'description'    => 'Rapid development framework.',
-        'github_repo'    => 'tripflex/piklist',
+        'github_repo'    => 'piklist/piklist',
         'wp_slug'        => 'piklist',
         'homepage'       => 'https://piklist.com',
         'is_for_plugins' => true,
